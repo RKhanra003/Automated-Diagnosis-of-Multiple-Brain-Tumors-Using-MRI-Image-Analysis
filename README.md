@@ -99,7 +99,11 @@ The classification model was developed using the **Brain Tumor MRI Dataset** com
 
 ### Model Architecture
 
-> **(Insert the ResNet34 + Vision Transformer architecture diagram here)**
+> <p align="center">
+  <img src="Classification/Architecture.png" width="900">
+</p>
+
+<p align="center"><b>Figure 1.</b> Proposed ResNet34 + Vision Transformer architecture.</p>
 
 ---
 
