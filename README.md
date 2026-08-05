@@ -170,7 +170,7 @@ This design enables accurate segmentation of complex brain tumor structures.
   <img src="Segmentation/Output.png" width="700">
 </p>
 
-<p align="center"><b>Figure 4.</b> Segmentation Output.</p>
+<p align="center"><b>Figure 5.</b> Segmentation Output.</p>
 
 ---
 
@@ -220,6 +220,6 @@ If you use this work in your research, please cite the corresponding publication
 
 **Author:** *Your Name*
 
-**Email:** *[your-email@example.com](mailto:your-email@example.com)*
+**Email:** *[rohitkhanra759@gmail.com](mailto:rohitkhanra759@gmail.com)*
 
-**GitHub:** *https://github.com/your-username*
+**GitHub:** *https://github.com/RKhanra003*
