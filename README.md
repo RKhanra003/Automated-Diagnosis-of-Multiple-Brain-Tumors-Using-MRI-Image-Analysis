@@ -166,7 +166,11 @@ This design enables accurate segmentation of complex brain tumor structures.
 
 ## Segmentation Results
 
-> **(Insert segmentation output images here)**
+> <p align="center">
+  <img src="Segmentation/Output.png" width="700">
+</p>
+
+<p align="center"><b>Figure 4.</b> Segmentation Output.</p>
 
 ---
 
