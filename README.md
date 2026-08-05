@@ -95,9 +95,7 @@ The classification model was developed using the **Brain Tumor MRI Dataset** com
 
 ---
 
-## Classification Results
-
-### Model Architecture
+## Model Architecture
 
 > <p align="center">
   <img src="Classification/Architecture.png" width="900">
@@ -107,21 +105,35 @@ The classification model was developed using the **Brain Tumor MRI Dataset** com
 
 ---
 
+## Classification Results
+
 ### Training & Validation Accuracy
 
-> **(Insert the training and validation accuracy curve here)**
+> <p align="center">
+  <img src="Classification/Training Validation Accuracy.png" width="700">
+</p>
+
+<p align="center"><b>Figure 2.</b> Training and Validation Accuracy.</p>
 
 ---
 
 ### Training & Validation Loss
 
-> **(Insert the training and validation loss curve here)**
+> <p align="center">
+  <img src="Classification/Training Validation Loss.png" width="700">
+</p>
+
+<p align="center"><b>Figure 3.</b> Training and Validation Loss.</p>
 
 ---
 
 ### Confusion Matrix
 
-> **(Insert the confusion matrix here)**
+> <p align="center">
+  <img src="Classification/Confusion Matrix.png" width="700">
+</p>
+
+<p align="center"><b>Figure 4.</b> Confusion Matrix.</p>
 
 ---
 
