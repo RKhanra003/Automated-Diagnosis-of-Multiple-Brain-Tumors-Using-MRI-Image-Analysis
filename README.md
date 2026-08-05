@@ -70,6 +70,31 @@ The model combines the strong local feature extraction capability of **ResNet34*
 
 ---
 
+## Classification Dataset
+
+The classification model was developed using the **Brain Tumor MRI Dataset** compiled by **Masoud Nickparvar**. This publicly available dataset contains **7,023 brain MRI images** belonging to four categories:
+
+* Glioma
+* Meningioma
+* Pituitary Tumor
+* No Tumor
+
+### Dataset Split
+
+| Dataset    | Number of Images |
+| ---------- | ---------------: |
+| Training   |            5,712 |
+| Validation |            1,142 |
+| Testing    |            1,311 |
+| **Total**  |        **7,023** |
+
+**Dataset Link:**
+[https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/versions/1)
+
+> **Note:** Prior to training, the MRI images were preprocessed and augmented to improve the robustness and generalization capability of the proposed classification model.
+
+---
+
 ## Classification Results
 
 ### Model Architecture
